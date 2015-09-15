@@ -268,7 +268,7 @@ Full-Width Styles
   position: relative;
   max-width: 640px;
   padding: 20px 10px;
-  margin: 20px auto;
+  margin: 0 auto;
 }
 
 #forkme_banner {
@@ -313,6 +313,14 @@ Full-Width Styles
 }
 
 #myaddress {
+  margin: 0;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  text-shadow: #111 0px 0px 10px;
+}
+
+#contact_info {
   margin: 0;
   color: #fff;
   font-size: 16px;
