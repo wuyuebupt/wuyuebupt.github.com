@@ -1,2 +1,2 @@
 # wuyuebupt.github.com
-test pages
+This is my personal page.
