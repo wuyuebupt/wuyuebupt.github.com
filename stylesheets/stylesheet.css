@@ -271,6 +271,14 @@ Full-Width Styles
   margin: 0 auto;
 }
 
+
+#clustrmaps-widget {
+  float: left;
+  max-width: 640px;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
+
 #forkme_banner {
   display: block;
   position: absolute;
