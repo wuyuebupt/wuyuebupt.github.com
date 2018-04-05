@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="Wuyuebupt.GitHub.com">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>wuyue.github.io</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/wuyuebupt">View on GitHub</a>
+		<!--
+		<div id="personal_info">
+		  		  <div id="personal_photo" >
+		  <img  width=150 height=200 src="img/20150923141358.png">	
+		  </div>
+-->
+          <div id="myname">
+		  Yue Wu<br>
+		   My new webpage : </br>
+			<a href='http://www1.ece.neu.edu/~yuewu/'>http://www1.ece.neu.edu/~yuewu/</a> 
+		  <!--吴岳<br>-->
+		  </div>
+
+
+ <!--		  <div id="myaddress">(P.R.C.)
+		  </div>	-->
+		  <br>
+		  <div id="contact_info">
+		  Email: wuyuebupt at gmail dot com<br>
+		  </div>
+		</div>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+	  <!--
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+
+<div id="aboutme" align="justify">
+I was a M.S. student in the <a target="_top" href="http://sice.bupt.edu.cn/tea/english/english/index.html">School of Information and Communication Engineering</a> at <a target="_top" href="http://english.bupt.edu.cn/"> Beijing University of Posts and Telecommunications(BUPT)</a>, advised by Prof. Yuan Dong. 
+I received my B.S. degree in the same univerisity in 2013. 
+My research interests include Computer Vision, Machine Learning and Deep Learning.
+</br>
+I was an intern at <a href="http://www.orange.com/en/home"> France Telecom Orange Labs - Beijing</a> from 2013 to 2014. 
+This year,I joined <a href="http://www.faceall.cn/index.en.html">Beijing Faceall co., LTD</a>. Now I am working as a chief researcher in this startup, focusing on object detection. 
+</br></br>
+My <a href="files/wuyue_cv.pdf">Curriculum Vitae</a> is here in PDF. [(updated on 2015/10/2)]
+</div>
+
+
+<h3>
+<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Projects</h3>
+
+<li>
+
+<font face="Verdana" style="font-size: 10pt"> 
+
+(May.2015 - Present)  <i>ImageNet Large Scale Visual Recognition Challenge 2015 </i> (<b>ILSVRC2015</b>) 
+
+[<a href="http://www.image-net.org/challenges/LSVRC/2015/">Project Page</a>]
+
+</font></li>
+
+
+<li>
+
+<font face="Verdana" style="font-size: 10pt"> 
+
+(Jan.2015 - Apr.2015)  <i>68 Facial Landmarks Detection</i> 
+
+[<a href="http://www.faceall.cn/index.en.html">Demo</a>]
+[<a href="http://www.faceall.cn/documentation_en.html#v2detectionlandmark68">Online API</a>]
+
+</font></li>
+<li>
+<font face="Verdana" style="font-size: 10pt"> 
+(Oct.2014 - Dec.2014)  <i>Face Verification</i> 
+[<a href="http://www.faceall.cn/index.en.html">Demo</a>]
+</font></li>
+
+</font></li>
+<li>
+<font face="Verdana" style="font-size: 10pt"> 
+(Jun.2014 - Sep.2014)  <i>Five Facial landmarks Detection </i> 
+[<a href="files/csi.pdf">PDF</a>]
+</font></li>
+
+</font></li>
+
+
+<li>
+<font face="Verdana" style="font-size: 10pt"> 
+(Nov.2013 - Jan.2014)  <i>Face tracking</i> 
+[<a href="files/nidc2014.pdf">PDF</a>]
+</font></li>
+
+
+<h3>
+<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Publications</h3>
+
+<li> 
+<p align="justify" style="margin-top: 0; margin-bottom: 6">
+<font face="Verdana" style="font-size: 10pt">
+<strong>Yue Wu</strong>, Yuan Dong, Peng Li, Kun Tao. Spatio-temporal constraint for fast face tracking in movies[C]//Network Infrastructure and Digital Content (IC-NIDC), 2014 4th IEEE International Conference on. IEEE, 2014: 208-212.
+[<a href="files/nidc2014.pdf">PDF</a>]
+</font></p></li>
+
+<li> 
+<p align="justify" style="margin-top: 0; margin-bottom: 6">
+<font face="Verdana" style="font-size: 10pt">
+Yuan Dong, <strong>Yue Wu</strong>. Adaptive Cascade Deep Convolutional Neural Networks for face alignment[J]. Computer Standards & Interfaces, 2015, 42: 105-112.
+[<a href="files/csi.pdf">PDF</a>]
+</font></p></li>
+
+
+<h3>
+<a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span class="octicon octicon-link"></span></a>Awards</h3>
+Graduate Tuition Waiver, Third Grade of Nation Scholarship, 2013-2016</br>
+Beijing College-student Electronics Design Contest, Beijing Second Prize, 2012</br>
+The Chinese Mathematics Competitions(CMC) Finals, National Second Prize, 2011</br>
+Beijing College-student Physics Contest, Beijing First Prize (rank 1st in BUPT), 2010</br>
+The Chinese Mathematics Competitions(CMC) Beijing, Beijing First Prize (rank 1st in BUPT), 2010</br>
+Excellent Student Award, First-class Scholarship, 2009-2010
+
+
+
+</section>
+    </div>
+-->
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+	 <!--      
+        <p>Friends</p>
+	      
+		<p><a href="http://lbmedia.ece.ucsb.edu/member/uweb/hch.htm">Chong Huang</a>
+		<a href="http://imdiyi.com/">Diyi Wang</a>
+		<a href="http://wangzheallen.github.io/">Zhe Wang</a>
+		<a href="http://yanyiwu.com/">Yanyi Wu</a></p>
+		-->
+		<div id="clustrmaps-widget"></div>
+      </footer>
+	
+
+	  <script type="text/javascript">var _clustrmaps = {'url' : 'http://wuyuebupt.github.io', 'user' : 1179355, 'server' : '3', 'id' : 'clustrmaps-widget', 'version' : 1, 'date' : '2015-09-22', 'lang' : 'zh', 'corners' : 'square' };(function (){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'http://www3.clustrmaps.com/counter/map.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);})();</script><noscript><a href="http://www3.clustrmaps.com/user/18f11fedb"><img src="http://www3.clustrmaps.com/stats/maps-no_clusters/wuyuebupt.github.io-thumb.jpg" alt="Locations of visitors to this page" /></a></noscript>
+
+
+    </div>
+
+	
+
+    
+
+  </body>
+</html>
